@@ -34,16 +34,21 @@
 
 <!-- INSTALL -->
 ## 🚀 Installation from source
-```
+
+
 git clone https://github.com/xxkenxyz/discord-music-b0t.git
-```
+
+
 After cloning, run an
-```
+
+
 npm install
-```
+
+
 npm start
-```
-* Start the bot with `node index.js`
+
+
+Start the bot with `node index.js`
 
 
 ## 🌋 lavalink host free
